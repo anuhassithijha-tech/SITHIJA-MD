@@ -1,0 +1,16 @@
+{
+  "name": "sithija-md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "axios": "^1.6.0",
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0",
+    "moment-timezone": "^0.5.45",
+    "pino": "^8.17.2"
+  }
+}
